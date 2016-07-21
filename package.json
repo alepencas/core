@@ -65,9 +65,13 @@
     "shower-touch": "0.0.11",
     "wdio-allure-reporter": "0.1.1",
     "wdio-dot-reporter": "0.0.6",
+<<<<<<< 881cc5343c228935fdeb4ec395e46878f75e4857
     "wdio-mocha-framework": "^0.3.7",
 <<<<<<< 4d80cb6b3857cdf0783eaef2b2a3debe7b1ef1db
 <<<<<<< 2e7ba275a57eaae3159bc1875a2769a569b3a196
+=======
+    "wdio-mocha-framework": "^0.3.9",
+>>>>>>> chore(package): update wdio-mocha-framework to version 0.3.9
     "webdriverio": "^4.2.2",
 =======
     "webdriverio": "^4.2.1",
