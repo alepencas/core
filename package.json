@@ -88,6 +88,7 @@
 =======
 =======
     "wdio-mocha-framework": "^0.4.0",
+<<<<<<< 2044b8d51a2636ab1eb9e8af5233d5a6c9b46f1f
 <<<<<<< 31905b3e39d5bca1f69fb09a2226a14590f59e6a
 >>>>>>> chore(package): update wdio-mocha-framework to version 0.4.0
     "webdriverio": "^4.2.3",
@@ -95,6 +96,9 @@
 =======
     "webdriverio": "^4.2.4",
 >>>>>>> chore(package): update webdriverio to version 4.2.4
+=======
+    "webdriverio": "^4.2.5",
+>>>>>>> chore(package): update webdriverio to version 4.2.5
     "ym": "^0.1.2"
   },
   "scripts": {
