@@ -65,40 +65,6 @@
     "shower-touch": "0.0.11",
     "wdio-allure-reporter": "0.1.1",
     "wdio-dot-reporter": "0.0.6",
-<<<<<<< 55ed5029383931734d2374e643e9ccee4bd94950
-<<<<<<< 804af7e63f27189cea8ce206f3edf3e57d568b79
-<<<<<<< 881cc5343c228935fdeb4ec395e46878f75e4857
-    "wdio-mocha-framework": "^0.3.7",
-<<<<<<< 4d80cb6b3857cdf0783eaef2b2a3debe7b1ef1db
-<<<<<<< 2e7ba275a57eaae3159bc1875a2769a569b3a196
-=======
-    "wdio-mocha-framework": "^0.3.9",
->>>>>>> chore(package): update wdio-mocha-framework to version 0.3.9
-=======
-    "wdio-mocha-framework": "^0.3.10",
-<<<<<<< 6d2e883547c07e5c342ef3668307314ae5b29948
->>>>>>> chore(package): update wdio-mocha-framework to version 0.3.10
-    "webdriverio": "^4.2.2",
-=======
-    "webdriverio": "^4.2.1",
->>>>>>> chore(package): update wdio-mocha-framework to version 0.3.7
-=======
-    "webdriverio": "^4.2.2",
->>>>>>> chore(package): update webdriverio to version 4.2.2
-=======
-=======
-    "wdio-mocha-framework": "^0.4.0",
-<<<<<<< 2044b8d51a2636ab1eb9e8af5233d5a6c9b46f1f
-<<<<<<< 31905b3e39d5bca1f69fb09a2226a14590f59e6a
->>>>>>> chore(package): update wdio-mocha-framework to version 0.4.0
-    "webdriverio": "^4.2.3",
->>>>>>> chore(package): update webdriverio to version 4.2.3
-=======
-    "webdriverio": "^4.2.4",
->>>>>>> chore(package): update webdriverio to version 4.2.4
-=======
-    "webdriverio": "^4.2.5",
->>>>>>> chore(package): update webdriverio to version 4.2.5
     "ym": "^0.1.2"
   },
   "scripts": {
