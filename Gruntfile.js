@@ -4,12 +4,6 @@ module.exports = function(grunt) {
 
     grunt.initConfig({
         pkg: grunt.file.readJSON('package.json'),
-        jscs: {
-            src: 'lib/*/*.js',
-            options: {
-                config: '.jscs.json'
-            }
-        },
         concat: {
             basic: {
                 src: [
@@ -59,13 +53,11 @@ module.exports = function(grunt) {
     });
 
     grunt.registerTask('default', [
-        'jscs',
         'concat:basic',
         'uglify'
     ]);
 
     grunt.registerTask('dev', [
-        'jscs',
         'concat:basic'
     ]);
 
@@ -75,14 +67,12 @@ module.exports = function(grunt) {
     ]);
 
     grunt.registerTask('test:func', [
-        'jscs',
         'concat:basic',
         'uglify',
         'webdriver'
     ]);
 
     grunt.registerTask('test:unit', [
-        'jscs',
         'concat',
         'uglify',
         'mocha'
