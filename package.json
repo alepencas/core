@@ -97,7 +97,7 @@
     "build:dev": "webpack --config webpack.config.js",
     "server": "webpack-dev-server",
     "prepublish": "npm run build",
-    "lint": "eslint .",
+    "validate": "eslint .",
     "test": "grunt test",
     "report": "allure report generate -o allure-report allure-results && allure report open -o allure-report"
   }
