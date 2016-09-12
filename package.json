@@ -67,29 +67,9 @@
     "shower-touch": "0.0.11",
     "wdio-allure-reporter": "0.1.1",
     "wdio-dot-reporter": "0.0.6",
-<<<<<<< bbb444499ab22c1b703cc76376f85657135aefb9
-<<<<<<< 63ed245cf52f4dcc67f1fb298a55d65d8f3f7521
-<<<<<<< 637c4034dd7111bec830f6fc7c1ddf6eb2bfa2fb
-=======
-    "wdio-mocha-framework": "^0.4.0",
-<<<<<<< daffe86d334a12be03d05bbf8df4f1615e590ec6
-    "webdriverio": "^4.2.8",
->>>>>>> chore(package): update webdriverio to version 4.2.8
-=======
-=======
     "wdio-mocha-framework": "^0.4.1",
->>>>>>> chore(package): update wdio-mocha-framework to version 0.4.1
-=======
-    "wdio-mocha-framework": "^0.4.1",
->>>>>>> chore(package): update wdio-mocha-framework to version 0.4.1
-    "webdriverio": "^4.2.11",
-<<<<<<< 7a9b222036721021b5398d9c7ea0f327a807ae05
->>>>>>> chore(package): update webdriverio to version 4.2.11
-    "ym": "^0.1.2"
-=======
     "webpack": "2.1.0-beta.22",
     "webpack-dev-server": "^1.15.1"
->>>>>>> Webpack build configuration
   },
   "scripts": {
     "prebuild": "selenium-standalone install",
